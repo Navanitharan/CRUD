@@ -4,7 +4,9 @@ This project is a CRUD (Create, Read, Update, Delete) application built using Re
 
 ## Screenshots
 
-[Include screenshots of your project here]
+![image](https://github.com/Navanitharan/CRUD/assets/102136576/fb9b234b-8f8b-4f57-9f12-571cfbc21cbc)
+![image](https://github.com/Navanitharan/CRUD/assets/102136576/009976ea-23f8-4aa5-adf6-0454bda5f8f1)
+![image](https://github.com/Navanitharan/CRUD/assets/102136576/ee39688a-e78e-48e2-95f4-b1a275e4a7e4)
 
 ## Features
 
@@ -39,9 +41,6 @@ This project is a CRUD (Create, Read, Update, Delete) application built using Re
   - `README.md`: Project documentation.
   - Other files and directories as per the React application structure.
 
-## Usage
-
-[Provide usage instructions for your project]
 
 ## Credits
 
