@@ -51,7 +51,7 @@ const HomePage = () => {
       </div>
 
       {/* Create the table */}
-      <div>
+      <div className="table-responsive">
         <table className="table table-dark">
           <thead>
             <tr>
